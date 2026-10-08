@@ -1,0 +1,17 @@
+{
+  "name": "حويشة — فلوسك تحت عينك",
+  "short_name": "حويشة",
+  "description": "دفتر مرتبك ومدخراتك ومسحوباتك، مع تقارير ونسخ احتياطي مشفر",
+  "id": "./index.html",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#071b21",
+  "theme_color": "#071b21",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
